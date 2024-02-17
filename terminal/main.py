@@ -5,7 +5,7 @@ import json
 import os
 
 
-api = "78724d4414ec451682843153241702"
+api = "" # -> insert your api here from weatherapi.com
 
 os.system("cls")
 print(f"\t\t WELCOME TO THE WEATHER APP \t\t\n\n")
